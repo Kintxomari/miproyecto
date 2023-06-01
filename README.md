@@ -12,4 +12,4 @@ cambio s en online cloud
 
 ### subsection
 
-esto es el tema del conflicto
+ninguna de las lnieas era buena.
