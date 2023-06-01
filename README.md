@@ -14,4 +14,4 @@ cambio s en online cloud
 
 ninguna de las lnieas era buena.
 
-otro conflicto
+Este conflicto está resuelto
